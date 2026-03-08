@@ -1,0 +1,14 @@
+#form{
+    border: 1px solid ;
+    padding: 20px;
+    border-radius: 10px;
+     opacity: 0.5; 
+}
+body{
+    background: url('../img/7.jpg');
+    background-size: cover;    
+    background-repeat: no-repeat;
+    min-height: 100vh;      
+    margin: 0;
+    background-attachment: fixed;
+}
